@@ -12,3 +12,5 @@ In Data Preparation, the steps include importing necessary libraries, loading an
 
 ## Image Preprocessing (`image_prep.ipynb`)
 Image Preprocessing involves setting up the environment with required libraries, loading and verifying cleaned metadata, visualizing data to ensure accuracy, creating functions to process images (such as resizing and normalizing), and discussing potential adjustments like batch processing and efficient data storage.
+
+Image processing updated
